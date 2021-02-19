@@ -4,7 +4,6 @@
     "description": "Extension for YahBoom YB_Croco_Kit V2.0.1",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "LEDBit": "github:lzty634158/LED-Bit"
     },
     "files": [
